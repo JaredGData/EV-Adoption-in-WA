@@ -28,7 +28,7 @@ Key Insights
 
 ---
 
-### 2. 🛣️ Geographic Disparities & Infrastructure Gaps
+### 2. Geographic Disparities & Infrastructure Gaps
 - King County alone accounts for ~50% of all EVs, followed by Snohomish and Pierce.
 - Yet counties like Whatcom and Benton show higher CAFV eligibility rates (35–37%), suggesting untapped potential.
 
@@ -36,7 +36,7 @@ Key Insights
 
 ---
 
-### 3. ⚡ Fuel Type Shift: BEV vs PHEV
+### 3. Fuel Type Shift: BEV vs PHEV
 - BEVs make up 79.6% of the fleet, with PHEVs at 20.4%.
 - BEV growth has outpaced PHEVs since 2020, indicating:
   - Improved charging confidence
@@ -47,7 +47,7 @@ Key Insights
 
 ---
 
-### 4. 🏛️ Legislative District & Utility Influence
+### 4. Legislative District & Utility Influence
 - Top districts (41, 45, 48) and utilities (Seattle City Light, Bonneville) correlate with high EV volumes.
 - These areas likely benefit from:
   - Pro-EV legislation
@@ -58,7 +58,7 @@ Key Insights
 
 ---
 
-### 5. 🚘 Brand & Model Dynamics
+### 5. Brand & Model Dynamics
 - Tesla dominates with Model Y and Model 3 leading registrations.
 - Toyota leads in hybrids, while Chevrolet and Ford maintain relevance through Bolt and Mach-E.
 - Emerging brands like Rivian and Hyundai signal growing diversity.
@@ -67,7 +67,7 @@ Key Insights
 
 ---
 
-### 6. 🧮 CAFV Eligibility & Equity
+### 6. CAFV Eligibility & Equity
 - Only 29.35% of vehicles are CAFV-eligible, with 61.5% ineligible and 9.2% unknown.
 - This suggests:
   - Awareness or access gaps in incentive programs
@@ -79,7 +79,7 @@ Key Insights
 - https://catalog.data.gov/dataset/electric-vehicle-population-data
 
 Tools Used
-- Power BI Desktop (Daz, Power query)
+- Power BI Desktop (Dax, Power query)
 
 
 
