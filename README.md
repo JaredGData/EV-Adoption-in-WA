@@ -1,6 +1,6 @@
 EV Adoption in Washington: Where Policy Meets the Grid
 
-Project Overview
+
 This Power BI dashboard analyzes electric vehicle (EV) adoption trends across Washington State using public registration data. It explores geographic distribution, model year trends, fuel type segmentation, and policy alignment to support infrastructure planning and legislative strategy.
 
 Objectives
